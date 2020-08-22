@@ -18,7 +18,7 @@ Interests on AI, data science, machine learning and related fields.
 
 ---
 
-### Here is my [data science & machine learning portfolio](https://www.kaggle.com/dimitreoliveira) :robot:
+### Here is my [data science & machine learning portfolio](https://github.com/dimitreOliveira/MachineLearning) :robot:
 
 ### And here are some of the project I have worked with
 
