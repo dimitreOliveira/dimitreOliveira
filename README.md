@@ -24,7 +24,7 @@ Interests on AI, data science, machine learning and related fields.
 
 - :framed_picture: Computer vision
   - [APTOS 2019 Blindness Detection](https://github.com/dimitreOliveira/APTOS2019BlindnessDetection) [Bronze medal - 163rd place - Top 6%] :3rd_place_medal:
-  - [SIIM-ISIC Melanoma Classification](https://github.com/dimitreOliveira/melanoma-classification) [Bronze medal - 244th place - Top 8%] :3rd_place_medal:
+  - [SIIM-ISIC Melanoma Classification](https://github.com/dimitreOliveira/melanoma-classification) [Bronze medal - 241st place - Top 8%] :3rd_place_medal:
   - [Understanding Clouds from Satellite Images](https://github.com/dimitreOliveira/UnderstandingCloudsFromSatelliteImages) [184th place - Top 12%]
   - [iMet Collection 2019 - FGVC6](https://github.com/dimitreOliveira/iMet-Collection-2019-FGVC6) [226th place - Top 44%]
 
