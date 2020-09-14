@@ -20,7 +20,7 @@ Interests on AI, data science, machine learning and related fields.
 
 ### Here is my [data science & machine learning portfolio](https://github.com/dimitreOliveira/MachineLearning) :robot:
 
-### And here are some of the project I have worked with
+### And here are some of the projects I have worked with
 
 - :framed_picture: Computer vision
   - [APTOS 2019 Blindness Detection](https://github.com/dimitreOliveira/APTOS2019BlindnessDetection) [Bronze medal - 163rd place - Top 6%] :3rd_place_medal:
@@ -31,7 +31,7 @@ Interests on AI, data science, machine learning and related fields.
 - :page_facing_up: Natural language processing
   - [Tweet Sentiment Extraction](https://github.com/dimitreOliveira/Tweet-Sentiment-Extraction) [Silver medal - 60th place - Top 3%] :2nd_place_medal:
   - [Jigsaw Multilingual Toxic Comment Classification](https://github.com/dimitreOliveira/Jigsaw-Multilingual-Toxic-Comment-Classification) [Bronze medal - 100th place - Top 7%] :3rd_place_medal:
-  - [Google QUEST Q&A Labeling"](https://github.com/dimitreOliveira/Google-QUEST-QA-Labeling) [171st place - Top 11%]
+  - [Google QUEST Q&A Labeling](https://github.com/dimitreOliveira/Google-QUEST-QA-Labeling) [171st place - Top 11%]
   - [Jigsaw Unintended Bias in Toxicity Classification](https://github.com/dimitreOliveira/Jigsaw-UnintendedBiasInToxicityClassification) [351st place- Top 12%]
 
 - :chart_with_upwards_trend: Time-series
