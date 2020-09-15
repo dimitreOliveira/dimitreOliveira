@@ -17,6 +17,8 @@ Interests on AI, data science, machine learning and related fields.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:dimitreandrew@gmail.com)
 
 ---
+### These are some articles I have written :pencil:
+- [Melanoma Classification: Getting a medal on a Kaggle competition](https://medium.com/@dimitreandrew/melanoma-classification-getting-a-medal-on-a-kaggle-competition-4e4ebf1a16b9)
 
 ### Here is my [data science & machine learning portfolio](https://github.com/dimitreOliveira/MachineLearning) :robot:
 
