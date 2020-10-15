@@ -42,6 +42,7 @@ Interests on AI, data science, machine learning and related fields.
   
 - :card_file_box: Other structured data projects
   - [Instant Gratification](https://github.com/dimitreOliveira/InstantGratification) [231st place- Top 13%]
+  - [OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction](https://github.com/dimitreOliveira/COVID-19-Vaccine-Degradation-Prediction) [226th place - Top 14%]
   - [Microsoft Malware Prediction](https://github.com/dimitreOliveira/MicrosoftMalwarePrediction) [580th place - Top 24%]
 
 ---
