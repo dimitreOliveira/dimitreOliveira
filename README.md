@@ -17,11 +17,12 @@ Interests on AI, data science, machine learning and related fields.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:dimitreandrew@gmail.com)
 
 ---
+
+### Here is my [data science & machine learning portfolio](https://github.com/dimitreOliveira/MachineLearning) :robot:
+
 ### These are some articles I have written :pencil:
 - [Melanoma Classification: Getting a medal on a Kaggle competition](https://medium.com/analytics-vidhya/melanoma-classification-getting-a-medal-on-a-kaggle-competition-4e4ebf1a16b9)
 - [Efficiently Using TPU for Image Classification](https://medium.com/swlh/efficiently-using-tpu-for-image-classification-ed20d2970893)
-
-### Here is my [data science & machine learning portfolio](https://github.com/dimitreOliveira/MachineLearning) :robot:
 
 ### And here are some of the projects I have worked with
 
