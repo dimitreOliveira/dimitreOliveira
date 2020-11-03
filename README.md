@@ -23,6 +23,7 @@ Interests on AI, data science, machine learning and related fields.
 ### These are some articles I have written :pencil:
 - [Melanoma Classification: Getting a medal on a Kaggle competition](https://medium.com/analytics-vidhya/melanoma-classification-getting-a-medal-on-a-kaggle-competition-4e4ebf1a16b9)
 - [Efficiently Using TPU for Image Classification](https://medium.com/swlh/efficiently-using-tpu-for-image-classification-ed20d2970893)
+- [Building complex image augmentation pipelines with Tensorflow](https://dimitreoliveira.medium.com/building-complex-image-augmentation-pipelines-with-tensorflow-bed1914278d2)
 
 ### And here are some of the projects I have worked with
 
