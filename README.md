@@ -23,8 +23,9 @@ Interests on AI, data science, machine learning and related fields.
 ### These are some articles I have written :pencil:
 - [Melanoma Classification: Getting a medal on a Kaggle competition](https://medium.com/analytics-vidhya/melanoma-classification-getting-a-medal-on-a-kaggle-competition-4e4ebf1a16b9)
 - [Efficiently Using TPU for Image Classification](https://medium.com/swlh/efficiently-using-tpu-for-image-classification-ed20d2970893)
-- [Building complex image augmentation pipelines with Tensorflow](https://dimitreoliveira.medium.com/building-complex-image-augmentation-pipelines-with-tensorflow-bed1914278d2)
+- [Building complex image augmentation pipelines with Tensorflow](https://pub.towardsai.net/building-complex-image-augmentation-pipelines-with-tensorflow-bed1914278d2)
 - [Supervised Contrastive Learning for Cassava Leaf Disease Classification](https://pub.towardsai.net/supervised-contrastive-learning-for-cassava-leaf-disease-classification-9dd47779a966)
+- [Writing TFRecord Files the Right Way](https://pub.towardsai.net/writing-tfrecord-files-the-right-way-7c3cee3d7b12)
 
 ### And here are some of the projects I have worked with
 
