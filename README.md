@@ -26,6 +26,7 @@ Interests on AI, data science, machine learning and related fields.
 - [Building complex image augmentation pipelines with Tensorflow](https://pub.towardsai.net/building-complex-image-augmentation-pipelines-with-tensorflow-bed1914278d2)
 - [Supervised Contrastive Learning for Cassava Leaf Disease Classification](https://pub.towardsai.net/supervised-contrastive-learning-for-cassava-leaf-disease-classification-9dd47779a966)
 - [Writing TFRecord Files the Right Way](https://pub.towardsai.net/writing-tfrecord-files-the-right-way-7c3cee3d7b12)
+- [A Gentle Introduction to Audio Classification With Tensorflow](https://pub.towardsai.net/a-gentle-introduction-to-audio-classification-with-tensorflow-c469cb0be6f5)
 
 ### And here are some of the projects I have worked with
 
