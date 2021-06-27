@@ -30,9 +30,12 @@ Interests on AI, data science, machine learning and related fields.
 
 
 ### Here are some talks I gave :teacher:
-- [Using TPUs for computer vision - Kaggle Days Meetup Delhi NCR (11/07/2020) [English]](https://youtu.be/wYeYhlB4KX8)
-- [Supervised Contrastive Learning - TensorFlow Everywhere Brasil (02/20/2020) [Portuguese-BR]](https://youtu.be/flo3uno3jgc)
-- [Using computer vision for diabetic retinopathy detection - Datarisk Meetup (06/17/2021) [Portuguese-BR]](https://youtu.be/ma3kSfWmy3k)
+- Using TPUs for computer vision - Kaggle Days Meetup Delhi NCR (11/07/2020) [English]
+  - [Video](https://youtu.be/wYeYhlB4KX8) | [Slides](https://docs.google.com/presentation/d/1CeAGc5_0HP6aj1LaZh97i1pRbQ67Ci5JFJxUqhDMwRk/edit?usp=sharing)
+- Supervised Contrastive Learning - TensorFlow Everywhere Brasil (02/20/2020) [Portuguese-BR]
+  - [Video](https://youtu.be/flo3uno3jgc) | [Slides](https://docs.google.com/presentation/d/1riVGVqPp_g2ZTkib0MRxjKzdCiQ9SR1y1yUk6UanVMo/edit?usp=sharing)
+- Using computer vision for diabetic retinopathy detection - Datarisk Meetup (06/17/2021) [Portuguese-BR]
+  - [Video](https://youtu.be/ma3kSfWmy3k) | [Slides](https://docs.google.com/presentation/d/1-6r2Iib8wfpTyBhHhw8N4GKRaV3frkwH_RNG0OGcFTI/edit?usp=sharing)
 
 
 ### And here are some of the projects I have worked with
