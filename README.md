@@ -36,6 +36,8 @@ Interests on AI, data science, machine learning and related fields.
   - [Video](https://youtu.be/flo3uno3jgc) | [Slides](https://docs.google.com/presentation/d/1riVGVqPp_g2ZTkib0MRxjKzdCiQ9SR1y1yUk6UanVMo/edit?usp=sharing)
 - Using computer vision for diabetic retinopathy detection - Datarisk Meetup (06/17/2021) [Portuguese-BR]
   - [Video](https://youtu.be/ma3kSfWmy3k) | [Slides](https://docs.google.com/presentation/d/1-6r2Iib8wfpTyBhHhw8N4GKRaV3frkwH_RNG0OGcFTI/edit?usp=sharing)
+- How to build a data science portfolio | Kaggle #30daysofML 2021 (20/08/2021) [English]
+  - [Video](https://youtu.be/bsSlQ5mhdLU) | [Slides](https://docs.google.com/presentation/d/1AMNQqx3f4fiNzN_-qa7ft8TqRjCoN73-hWOAyKh3uvQ/edit?usp=sharing)
 
 
 ### And here are some of the projects I have worked with
