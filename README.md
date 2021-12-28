@@ -38,6 +38,8 @@ Interests on AI, data science, machine learning and related fields.
   - [Video](https://youtu.be/ma3kSfWmy3k) | [Slides](https://docs.google.com/presentation/d/1-6r2Iib8wfpTyBhHhw8N4GKRaV3frkwH_RNG0OGcFTI/edit?usp=sharing)
 - How to build a data science portfolio | Kaggle #30daysofML 2021 (20/08/2021) [English]
   - [Video](https://youtu.be/bsSlQ5mhdLU) | [Slides](https://docs.google.com/presentation/d/1AMNQqx3f4fiNzN_-qa7ft8TqRjCoN73-hWOAyKh3uvQ/edit?usp=sharing)
+- Interview with Dimitre Oliveira, contributor to Google's Dev Library | Dev Library and open source (26/08/2021) [English]
+  - [Video](https://youtu.be/_vP6ait732o) | [Dev Library](https://devlibrary.withgoogle.com/authors/dimitreoliveira)
 
 
 ### And here are some of the projects I have worked with
