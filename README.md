@@ -2,7 +2,7 @@
 
 ## Here is a brief introduction about myself.
 
-Currently working as a data scientist.
+Currently working as a machine learning engineer.
 
 Interests on AI, data science, machine learning and related fields.
 
@@ -18,32 +18,33 @@ Interests on AI, data science, machine learning and related fields.
 
 ---
 
-### Here is my [data science & machine learning portfolio](https://github.com/dimitreOliveira/MachineLearning) :robot:
-
-### These are some articles I have written :pencil:
-- [Melanoma Classification: Getting a medal on a Kaggle competition](https://medium.com/analytics-vidhya/melanoma-classification-getting-a-medal-on-a-kaggle-competition-4e4ebf1a16b9)
-- [Efficiently Using TPU for Image Classification](https://medium.com/swlh/efficiently-using-tpu-for-image-classification-ed20d2970893)
-- [Building complex image augmentation pipelines with Tensorflow](https://pub.towardsai.net/building-complex-image-augmentation-pipelines-with-tensorflow-bed1914278d2)
-- [Supervised Contrastive Learning for Cassava Leaf Disease Classification](https://pub.towardsai.net/supervised-contrastive-learning-for-cassava-leaf-disease-classification-9dd47779a966)
-- [Writing TFRecord Files the Right Way](https://pub.towardsai.net/writing-tfrecord-files-the-right-way-7c3cee3d7b12)
-- [A Gentle Introduction to Audio Classification With Tensorflow](https://pub.towardsai.net/a-gentle-introduction-to-audio-classification-with-tensorflow-c469cb0be6f5)
-
+### Blog posts ✍️
+- 2020-09-14: [Melanoma Classification: Getting a medal on a Kaggle competition](https://medium.com/analytics-vidhya/melanoma-classification-getting-a-medal-on-a-kaggle-competition-4e4ebf1a16b9)
+- 2020-10-13: [Efficiently using TPU for image classification](https://medium.com/swlh/efficiently-using-tpu-for-image-classification-ed20d2970893)
+- 2020-11-03: [Building Complex Image Augmentation Pipelines with Tensorflow](https://pub.towardsai.net/building-complex-image-augmentation-pipelines-with-tensorflow-bed1914278d2)
+- 2021-01-26: [Supervised Contrastive Learning for Cassava Leaf Disease Classification](https://pub.towardsai.net/supervised-contrastive-learning-for-cassava-leaf-disease-classification-9dd47779a966)
+- 2021-03-31: [Writing TFRecord Files the Right Way](https://pub.towardsai.net/writing-tfrecord-files-the-right-way-7c3cee3d7b12)
+- 2021-05-03: [A Gentle Introduction to Audio Classification With Tensorflow](https://pub.towardsai.net/a-gentle-introduction-to-audio-classification-with-tensorflow-c469cb0be6f5)
+- 2022-09-28: [Shortening model deployment with TensorFlow](https://towardsdatascience.com/shortening-model-deployment-with-tensorflow-d5a11044d0d)
+- 2023-10-11: [Content creation using MakerSuite and PaLM API](https://medium.com/google-developer-experts/content-creation-using-makersuite-and-palm-api-3dfc3a924510)
+- 2024-02-04: [Creating Movie Trailers With AI](https://pub.towardsai.net/creating-movie-trailers-with-ai-bb5c3d89f4e3)
+- 2024-02-29: [How to generate music clips with AI](https://medium.com/google-developer-experts/how-to-generate-music-clips-with-ai-38571f6d7812)
+- 2024-03-21: [Using Gemini 1.5 Pro to create video trailers](https://medium.com/google-developer-experts/using-gemini-1-5-pro-to-create-video-trailers-1fff6fc768c8)
+- 2024-06-16: [Building a generative AI-based GeoGuesser](https://medium.com/google-developer-experts/building-a-generative-ai-based-geoguesser-95c0510d153b)
 
 ### Here are some talks I gave :teacher:
-- Using TPUs for computer vision - Kaggle Days Meetup Delhi NCR (11/07/2020) [English]
+- 2020-07-11: Using TPUs for computer vision - Kaggle Days Meetup Delhi NCR [English]
   - [Video](https://youtu.be/wYeYhlB4KX8) | [Slides](https://docs.google.com/presentation/d/1CeAGc5_0HP6aj1LaZh97i1pRbQ67Ci5JFJxUqhDMwRk/edit?usp=sharing)
-- Supervised Contrastive Learning - TensorFlow Everywhere Brasil (02/20/2020) [Portuguese-BR]
+- 2020-02-20: Supervised Contrastive Learning - TensorFlow Everywhere Brasil [Portuguese-BR]
   - [Video](https://youtu.be/flo3uno3jgc) | [Slides](https://docs.google.com/presentation/d/1riVGVqPp_g2ZTkib0MRxjKzdCiQ9SR1y1yUk6UanVMo/edit?usp=sharing)
-- Using computer vision for diabetic retinopathy detection - Datarisk Meetup (06/17/2021) [Portuguese-BR]
+- 2021-06-17: Using computer vision for diabetic retinopathy detection - Datarisk Meetup [Portuguese-BR]
   - [Video](https://youtu.be/ma3kSfWmy3k) | [Slides](https://docs.google.com/presentation/d/1-6r2Iib8wfpTyBhHhw8N4GKRaV3frkwH_RNG0OGcFTI/edit?usp=sharing)
-- How to build a data science portfolio | Kaggle #30daysofML 2021 (20/08/2021) [English]
+- 2021-08-20: How to build a data science portfolio | Kaggle #30daysofML 2021 [English]
   - [Video](https://youtu.be/bsSlQ5mhdLU) | [Slides](https://docs.google.com/presentation/d/1AMNQqx3f4fiNzN_-qa7ft8TqRjCoN73-hWOAyKh3uvQ/edit?usp=sharing)
-- Interview with Dimitre Oliveira, contributor to Google's Dev Library | Dev Library and open source (26/08/2021) [English]
+- 2021-08-26: Interview with Dimitre Oliveira, contributor to Google's Dev Library | Dev Library and open source [English]
   - [Video](https://youtu.be/5rNbv4Yg5rA) | [Dev Library](https://devlibrary.withgoogle.com/authors/dimitreoliveira)
 
-
 ### And here are some of the projects I have worked with
-
 - :framed_picture: Computer vision
   - [APTOS 2019 Blindness Detection](https://github.com/dimitreOliveira/APTOS2019BlindnessDetection) [Bronze medal - 163rd place - Top 6%] :3rd_place_medal:
   - [SIIM-ISIC Melanoma Classification](https://github.com/dimitreOliveira/melanoma-classification) [Bronze medal - 241st place - Top 8%] :3rd_place_medal:
@@ -64,6 +65,8 @@ Interests on AI, data science, machine learning and related fields.
   - [Instant Gratification](https://github.com/dimitreOliveira/InstantGratification) [231st place- Top 13%]
   - [OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction](https://github.com/dimitreOliveira/COVID-19-Vaccine-Degradation-Prediction) [226th place - Top 14%]
   - [Microsoft Malware Prediction](https://github.com/dimitreOliveira/MicrosoftMalwarePrediction) [580th place - Top 24%]
+
+### Here is my [data science & machine learning portfolio](https://github.com/dimitreOliveira/MachineLearning) :robot:
 
 ---
 
