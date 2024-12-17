@@ -31,6 +31,7 @@ Interests on AI, data science, machine learning and related fields.
 - 2024-02-29: [How to generate music clips with AI](https://medium.com/google-developer-experts/how-to-generate-music-clips-with-ai-38571f6d7812)
 - 2024-03-21: [Using Gemini 1.5 Pro to create video trailers](https://medium.com/google-developer-experts/using-gemini-1-5-pro-to-create-video-trailers-1fff6fc768c8)
 - 2024-06-16: [Building a generative AI-based GeoGuesser](https://medium.com/google-developer-experts/building-a-generative-ai-based-geoguesser-95c0510d153b)
+- 2024-09-30: [How to use generative AI to create podcast-style content from any input](https://medium.com/google-developer-experts/how-to-use-generative-ai-to-create-podcast-style-content-from-any-input-d07cbb3b1bc6)
 
 ### Here are some talks I gave :teacher:
 - 2020-07-11: Using TPUs for computer vision - Kaggle Days Meetup Delhi NCR [English]
