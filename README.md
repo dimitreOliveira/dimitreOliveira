@@ -4,7 +4,7 @@
 
 Currently working as a machine learning engineer.
 
-Interests on AI, data science, machine learning and related fields.
+Interests on generative AI, data science, machine learning and related fields.
 
 ---
 
@@ -33,6 +33,16 @@ Interests on AI, data science, machine learning and related fields.
 - 2024-06-16: [Building a generative AI-based GeoGuesser](https://medium.com/google-developer-experts/building-a-generative-ai-based-geoguesser-95c0510d153b)
 - 2024-09-30: [How to use generative AI to create podcast-style content from any input](https://medium.com/google-developer-experts/how-to-use-generative-ai-to-create-podcast-style-content-from-any-input-d07cbb3b1bc6)
 
+
+### Some relevant open-source contributions that I have made 🤝
+- [Keras IO](https://keras.io/)
+  - [Creating TFRecords](https://keras.io/examples/keras_recipes/creating_tfrecords/)
+  - [Serving TensorFlow models with TFServing](https://keras.io/examples/keras_recipes/tf_serving/)
+  - [FeatureSpace advanced use cases](https://keras.io/examples/structured_data/feature_space_advanced/)
+- [Transformers](https://github.com/huggingface/transformers)
+  - [Enabling custom TF signature](https://github.com/huggingface/transformers/pull/19249)
+
+
 ### Here are some talks I gave :teacher:
 - 2020-07-11: Using TPUs for computer vision - Kaggle Days Meetup Delhi NCR [English]
   - [Video](https://youtu.be/wYeYhlB4KX8) | [Slides](https://docs.google.com/presentation/d/1CeAGc5_0HP6aj1LaZh97i1pRbQ67Ci5JFJxUqhDMwRk/edit?usp=sharing)
@@ -45,7 +55,7 @@ Interests on AI, data science, machine learning and related fields.
 - 2021-08-26: Interview with Dimitre Oliveira, contributor to Google's Dev Library | Dev Library and open source [English]
   - [Video](https://youtu.be/5rNbv4Yg5rA) | [Dev Library](https://devlibrary.withgoogle.com/authors/dimitreoliveira)
 
-### And here are some of the projects I have worked with
+### I am also a Kaggle grandmaster, here are some competitions that I took part
 - :framed_picture: Computer vision
   - [APTOS 2019 Blindness Detection](https://github.com/dimitreOliveira/APTOS2019BlindnessDetection) [Bronze medal - 163rd place - Top 6%] :3rd_place_medal:
   - [SIIM-ISIC Melanoma Classification](https://github.com/dimitreOliveira/melanoma-classification) [Bronze medal - 241st place - Top 8%] :3rd_place_medal:
@@ -68,7 +78,3 @@ Interests on AI, data science, machine learning and related fields.
   - [Microsoft Malware Prediction](https://github.com/dimitreOliveira/MicrosoftMalwarePrediction) [580th place - Top 24%]
 
 ### Here is my [data science & machine learning portfolio](https://github.com/dimitreOliveira/MachineLearning) :robot:
-
----
-
-Thanks for passing by.
