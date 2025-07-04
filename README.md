@@ -32,6 +32,10 @@ Interests on generative AI, data science, machine learning and related fields.
 - 2024-03-21: [Using Gemini 1.5 Pro to create video trailers](https://medium.com/google-developer-experts/using-gemini-1-5-pro-to-create-video-trailers-1fff6fc768c8)
 - 2024-06-16: [Building a generative AI-based GeoGuesser](https://medium.com/google-developer-experts/building-a-generative-ai-based-geoguesser-95c0510d153b)
 - 2024-09-30: [How to use generative AI to create podcast-style content from any input](https://medium.com/google-developer-experts/how-to-use-generative-ai-to-create-podcast-style-content-from-any-input-d07cbb3b1bc6)
+- 2025-02-18: [Supercharge Your Technical Content Creation with Gemini](https://medium.com/google-developer-experts/supercharge-your-technical-content-creation-with-gemini-5311af82d807)
+- 2025-03-16: [Host Your Own Ollama Models for Free with Google Colab](https://medium.com/data-science-collective/unleash-the-power-of-ai-host-your-own-ollama-models-for-free-with-google-colab-0aac5f237a9f)
+- 2025-04-21: [Topic Tonic: Crafting Curated Content with AI Agents](https://medium.com/data-science-collective/topic-tonic-crafting-curated-content-with-ai-agents-72192e93cc6f)
+- 2025-06-30: [Neural Reels: How AI Agents Can Revolutionize Content Creation](https://dimitreoliveira.medium.com/neural-reels-how-ai-agents-can-revolutionize-content-creation-bc224499c93a)
 
 
 ### Some relevant open-source contributions that I have made 🤝
